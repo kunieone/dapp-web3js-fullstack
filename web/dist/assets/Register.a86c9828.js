@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,c as t}from"./vendor.b9d86958.js";const _={},o={class:"input-box"};function s(c,n){return r(),t("div",o,"123")}var d=e(_,[["render",s]]);export{d as default};
